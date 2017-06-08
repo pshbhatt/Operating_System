@@ -1,0 +1,25 @@
+|PC|       |Instr|      |R&EA|     |R&EA Before Exe|  |R&EA After Exe| 
+|15(HEX)|  |20b(HEX)| |R5 20(HEX)|  |2(HEX)0(HEX)|     |2(HEX)20(HEX)| 
+|17(HEX)|  |20a(HEX)| |R5 21(HEX)|  |1(HEX)0(HEX)|     |1(HEX)21(HEX)| 
+|19(HEX)|  |209(HEX)| |R5 22(HEX)|  |2(HEX)0(HEX)|     |2(HEX)22(HEX)| 
+|9(HEX)|   |52f(HEX)| |R5 9(HEX)|   |2(HEX)22(HEX)|    |1a(HEX)9(HEX)| 
+|a(HEX)|   |21a(HEX)| |R5 24(HEX)|  |1a(HEX)9(HEX)|    |1a(HEX)24(HEX)| 
+|b(HEX)|   |315(HEX)| |R5 20(HEX)|  |1a(HEX)24(HEX)|   |2(HEX)20(HEX)| 
+|c(HEX)|   |211(HEX)| |R5 1d(HEX)|  |2(HEX)20(HEX)|    |2(HEX)1d(HEX)| 
+|d(HEX)|   |314(HEX)| |R5 21(HEX)|  |2(HEX)1d(HEX)|    |1(HEX)21(HEX)| 
+|e(HEX)|   |210(HEX)| |R5 1e(HEX)|  |1(HEX)21(HEX)|    |1(HEX)1e(HEX)| 
+|0(HEX)|   |531(HEX)| |R5 0(HEX)|   |1(HEX)1e(HEX)|    |f(HEX)0(HEX)|  
+|1(HEX)|   |21e(HEX)| |R5 1f(HEX)|  |f(HEX)0(HEX)|     |f(HEX)1f(HEX)| 
+|2(HEX)|   |740(HEX)| |R5 ----|     |f(HEX)----|       |0(HEX)----|    
+|3(HEX)|   |39b(HEX)| |R4 1e(HEX)|  |0(HEX)1f(HEX)|    |1(HEX)1e(HEX)| 
+|5(HEX)|   |f90(HEX)| |R4 ----|     |1(HEX)----|       |1(HEX)----|    
+|6(HEX)|   |117(HEX)| |R5 1d(HEX)|  |0(HEX)1e(HEX)|    |2(HEX)1d(HEX)| 
+|7(HEX)|   |195(HEX)| |R4 1c(HEX)|  |1(HEX)1d(HEX)|    |0(HEX)1c(HEX)| 
+|3(HEX)|   |43b(HEX)| |R5 3(HEX)|   |2(HEX)1c(HEX)|    |2(HEX)3(HEX)|  
+|4(HEX)|   |f90(HEX)| |R4 ----|     |0(HEX)----|       |0(HEX)----|    
+|8(HEX)|   |483(HEX)| |R4 8(HEX)|   |0(HEX)3(HEX)|     |0(HEX)8(HEX)|  
+|f(HEX)|   |c16(HEX)| |R5 f(HEX)|   |2(HEX)8(HEX)|     |2(HEX)f(HEX)|  
+|10(HEX)|  |112(HEX)| |R5 22(HEX)|  |2(HEX)f(HEX)|     |4(HEX)22(HEX)| 
+|11(HEX)|  |12(HEX)|  |R5 23(HEX)|  |4(HEX)22(HEX)|    |4(HEX)23(HEX)| 
+|12(HEX)|  |20e(HEX)| |R5 20(HEX)|  |4(HEX)23(HEX)|    |4(HEX)20(HEX)| 
+|1a(HEX)|  |c11(HEX)| |R5 1a(HEX)|  |4(HEX)20(HEX)|    |4(HEX)1a(HEX)| 
